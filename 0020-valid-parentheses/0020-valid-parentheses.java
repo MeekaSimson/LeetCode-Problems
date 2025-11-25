@@ -5,11 +5,11 @@ class Solution {
         Stack<Character> stack = new Stack<>();
 
         for (char c : s.toCharArray()) {
-            // Opening brackets → push
+            
             if (c == '(' || c == '{' || c == '[') {
                 stack.push(c);
             } 
-            // Closing brackets
+            
             else {
                 if (stack.isEmpty()) return false;
 
