@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0709-to-lower-case) |
 ## Stack
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 ## Greedy
 |  |
 | ------- |
