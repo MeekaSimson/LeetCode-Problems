@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0344-reverse-string) |
 ## Stack
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
