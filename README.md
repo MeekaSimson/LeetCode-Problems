@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0709-to-lower-case) |
@@ -112,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
