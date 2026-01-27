@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## String
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0242-valid-anagram) |
 ## Database
 |  |
