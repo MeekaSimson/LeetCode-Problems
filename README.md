@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/MeekaSimson/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
