@@ -1,8 +1,7 @@
 class Solution {
     public int firstUniqChar(String s) {
-        HashMap <Character, Integer> map = new HashMap<>();
-
-        for(char c: s.toCharArray()){
+        HashMap <Character,Integer> map = new HashMap<>();
+        for(char c : s.toCharArray()){
             map.put(c,map.getOrDefault(c,0)+1);
         }
         for(int i=0;i<s.length();i++){
@@ -10,6 +9,7 @@ class Solution {
                 return i;
             }
         }
+
         return -1;
     }
 }
